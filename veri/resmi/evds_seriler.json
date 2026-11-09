@@ -1,0 +1,154 @@
+{
+ "usd_try_alis": {
+  "kod": "TP.DK.USD.A.YTL",
+  "beklenen": [
+   "ABD",
+   "Alış"
+  ],
+  "grup": "bie_dkdovytl",
+  "amac": "USD/TRY (K1 TL sütunu, altın ons→gram kıyası)",
+  "dogrulandi": true,
+  "katalog": {
+   "SERIE_CODE": "TP.DK.USD.A.YTL",
+   "SERIE_NAME": "(USD)  ABD  Doları  (Döviz  Alış)",
+   "FREQUENCY_STR": "GÜNLÜK",
+   "START_DATE": "02-01-1950",
+   "END_DATE": "10-11-2026",
+   "DATASOURCE": "TCMB",
+   "kontrol_zamani": "2026-11-09T18:43:36+00:00"
+  }
+ },
+ "usd_try_satis": {
+  "kod": "TP.DK.USD.S.YTL",
+  "beklenen": [
+   "ABD",
+   "Satış"
+  ],
+  "grup": "bie_dkdovytl",
+  "amac": "USD/TRY satış",
+  "dogrulandi": true,
+  "katalog": {
+   "SERIE_CODE": "TP.DK.USD.S.YTL",
+   "SERIE_NAME": "(USD)  ABD  Doları  (Döviz  Satış)",
+   "FREQUENCY_STR": "GÜNLÜK",
+   "START_DATE": "02-01-1950",
+   "END_DATE": "10-11-2026",
+   "DATASOURCE": "TCMB",
+   "kontrol_zamani": "2026-11-09T18:43:36+00:00"
+  }
+ },
+ "altin_gram_tl": {
+  "kod": "TP.ALTINPIYASA.KAP05",
+  "beklenen": [
+   "Altın",
+   "Kapanış",
+   "TL/gr"
+  ],
+  "grup": "bie_altinbistbul",
+  "amac": "sabit karışım barajı (ilke 10) altın bacağı",
+  "dogrulandi": true,
+  "katalog": {
+   "SERIE_CODE": "TP.ALTINPIYASA.KAP05",
+   "SERIE_NAME": "Altın - Kapanış Fiyatı  - TL/gr",
+   "FREQUENCY_STR": "İŞ GÜNÜ",
+   "START_DATE": "04-12-2018",
+   "END_DATE": "23-10-2026",
+   "DATASOURCE": "BİST",
+   "kontrol_zamani": "2026-11-09T18:43:37+00:00"
+  }
+ },
+ "altin_ons_usd": {
+  "kod": "TP.ALTINPIYASA.KAP03",
+  "beklenen": [
+   "Altın",
+   "Kapanış",
+   "USD/ons"
+  ],
+  "grup": "bie_altinbistbul",
+  "amac": "çapraz kontrol",
+  "dogrulandi": true,
+  "katalog": {
+   "SERIE_CODE": "TP.ALTINPIYASA.KAP03",
+   "SERIE_NAME": "Altın - Kapanış Fiyatı  - USD/ons",
+   "FREQUENCY_STR": "İŞ GÜNÜ",
+   "START_DATE": "02-07-2018",
+   "END_DATE": "09-11-2026",
+   "DATASOURCE": "BİST",
+   "kontrol_zamani": "2026-11-09T18:43:37+00:00"
+  }
+ },
+ "tcmb_fonlama_maliyeti": {
+  "kod": "TP.APIFON4",
+  "beklenen": [
+   "Fonlama Maliyeti"
+  ],
+  "grup": "bie_apifon",
+  "amac": "nakit getirisi (gerçek gecelik maliyet; politika faizi elle)",
+  "dogrulandi": true,
+  "katalog": {
+   "SERIE_CODE": "TP.APIFON4",
+   "SERIE_NAME": "TCMB Ağırlıklı Ortalama Fonlama Maliyeti",
+   "FREQUENCY_STR": "İŞ GÜNÜ",
+   "START_DATE": "03-01-2011",
+   "END_DATE": "09-11-2026",
+   "DATASOURCE": "TCMB",
+   "kontrol_zamani": "2026-11-09T18:43:37+00:00"
+  }
+ },
+ "tlref": {
+  "kod": "TP.BISTTLREF.ORAN",
+  "beklenen": [
+   "TLREF",
+   "Faiz Oranı"
+  ],
+  "grup": "bie_bisttlref",
+  "amac": "gecelik referans faiz (nakit kıyası çapraz kontrol)",
+  "dogrulandi": true,
+  "katalog": {
+   "SERIE_CODE": "TP.BISTTLREF.ORAN",
+   "SERIE_NAME": "BIST TLREF -Türk Lirası Gecelik Referans Faiz Oranı (ISIN:TRIXIST00015)",
+   "FREQUENCY_STR": "İŞ GÜNÜ",
+   "START_DATE": "28-12-2018",
+   "END_DATE": "06-11-2026",
+   "DATASOURCE": "BORSA İSTANBUL",
+   "kontrol_zamani": "2026-11-09T18:43:37+00:00"
+  }
+ },
+ "tufe_endeks_2025": {
+  "kod": "TP.TUKFIY2025.GENEL",
+  "beklenen": [
+   "Genel"
+  ],
+  "grup": "bie_tukfiy2025",
+  "amac": "TÜFE genel endeks (2025=100); yıllık % Pusula'da türetilir",
+  "dogrulandi": true,
+  "katalog": {
+   "SERIE_CODE": "TP.TUKFIY2025.GENEL",
+   "SERIE_NAME": "Genel Endeks",
+   "FREQUENCY_STR": "AYLIK",
+   "START_DATE": "01-01-2005",
+   "END_DATE": "01-10-2026",
+   "DATASOURCE": "TÜİK",
+   "kontrol_zamani": "2026-11-09T18:43:37+00:00"
+  }
+ },
+ "tlref_endeks": {
+  "kod": "TP.BISTTLREF.KAPANIS",
+  "beklenen": [
+   "TLREF Endeksi",
+   "Kapanış"
+  ],
+  "grup": "bie_bisttlref",
+  "amac": "gecelik faizin bileşik endeksi (nakit kıyas çizgisi adayı, ilke 10 Baraj 1 çapraz kontrol)",
+  "dogrulandi": true,
+  "katalog": {
+   "SERIE_CODE": "TP.BISTTLREF.KAPANIS",
+   "SERIE_NAME": "BIST TLREF Endeksi - Kapanış Değeri (Endeks Kodu: BISTTLREF - TL)",
+   "FREQUENCY_STR": "İŞ GÜNÜ",
+   "START_DATE": "14-06-2019",
+   "END_DATE": "06-11-2026",
+   "DATASOURCE": "BORSA İSTANBUL",
+   "kontrol_zamani": "2026-11-09T18:43:38+00:00"
+  }
+ }
+}
