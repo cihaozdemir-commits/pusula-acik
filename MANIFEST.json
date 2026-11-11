@@ -1,18 +1,18 @@
 {
- "olusturma_utc": "2026-11-10T17:07:01+00:00",
- "kaynak_commit": "9d32583dbd95a80549f080f7af2731db732c08ef",
+ "olusturma_utc": "2026-11-11T17:12:20+00:00",
+ "kaynak_commit": "94589dd439c83fd6e47cf38fe402724db71c327b",
  "atif": "Kaynak: Türkiye Cumhuriyet Merkez Bankası, Elektronik Veri Dağıtım Sistemi (EVDS), https://evds3.tcmb.gov.tr — EVDS kullanım koşulları (docId=18) uyarınca kaynak gösterilerek yayımlanmıştır. Veriler TCMB'ye aittir; bu depo yalnız teknik kopyadır.",
  "dosyalar": {
   "veri/resmi/evds/altin_gram_tl.csv": "8221acd7fbaced26b76c006cb99c8a7d5244483bb7c0c9f7fbd287c61e47c0ae",
-  "veri/resmi/evds/altin_ons_usd.csv": "020327ead234d315a7aff6d5315a577d8a82a48d527587dbd70b15a8b782055e",
-  "veri/resmi/evds/tcmb_fonlama_maliyeti.csv": "8f5774cc4bee091af9da9845322f20286520411abadd28aa29f3f14a1259b67c",
-  "veri/resmi/evds/tlref.csv": "36ebe4cb0e4920e8d78740a21890a569166212928d54d3f758135c3386175c93",
-  "veri/resmi/evds/tlref_endeks.csv": "7caea80492bebe8427cb782c4eccdfe6997e798abe95d3ef650c7171bd486bcf",
+  "veri/resmi/evds/altin_ons_usd.csv": "803764827b03eb4ed2e725ee62d3fb06e5079b0259b6a2ed8565ac2402c33cde",
+  "veri/resmi/evds/tcmb_fonlama_maliyeti.csv": "747b4967723cf95bb06e74afd85c892305aac74a9a85d64ba5a4e06e8651275b",
+  "veri/resmi/evds/tlref.csv": "8a0ec3110aa59b319a8ffa3c1274e8fff82d3f655bb86abb88c93fff80a23ab7",
+  "veri/resmi/evds/tlref_endeks.csv": "e7306f675ba9b8ffd15d78dff8b8e657cab122af96e8d7e755df0d45a517fea1",
   "veri/resmi/evds/tufe_endeks_2025.csv": "ffe3c203a1d7bec8c479958255a87d285f2cbbfaab5f363b88498558a15bbbb4",
-  "veri/resmi/evds/usd_try_alis.csv": "c924d9f4c5e95cdbc480757c1f66bfc434ae1b965cde7c88d980df942a7e19f0",
-  "veri/resmi/evds/usd_try_satis.csv": "e7771a94824561065fa7ed7846e8c98aac77d5673b5da13b04a8005486f3ece9",
+  "veri/resmi/evds/usd_try_alis.csv": "dce5704cb9e9fc69f593003ffcca58d81649bc174509e765150e2b5a6af4dd05",
+  "veri/resmi/evds/usd_try_satis.csv": "5039bb468a51315b3ce8f4dcbdc8bba80dbdb38a415b0d19c3a3a9e1c201d7e3",
   "veri/resmi/evds_seriler.json": "f7e2e32ce1bf3403387f230f351496df27f980165f31b512633d53eecd46251d",
-  "LISANS.json": "1e5d4c5f3ce1b3acd56df066573a5a895b24a677cc28544cbf7ebb294ec42d59"
+  "LISANS.json": "461dbe0a0e66b0b7d541b82e22c3582eb42d284232e30926d6a583aa337721c0"
  },
  "not": "Bulut okuyucu: her dosyanın sha256'sı bu manifestle eşleşmeli; eşleşmezse veri kullanılmaz (ilke 22/25)."
 }
