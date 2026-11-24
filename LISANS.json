@@ -8,9 +8,9 @@
   "kosul": "TCMB EVDS kullanım koşulları (evds3 docId=18, 09.11.2026 okundu): kaynak gösterilerek kullanım serbest; aşırı/kötüye kullanım niteliğinde sorgu yasak",
   "erisim": "API anahtarı (Cihan adına), günde 1 demet; ham yanıt veri/resmi/evds/ham/",
   "ilk_kayit": "2026-11-09T18:43:39+00:00",
-  "son_guncelleme": "2026-11-23T17:17:31+00:00",
-  "son_tarih": "2026-11-23",
-  "son_ham_sha12": "3a49d6a16a5f",
+  "son_guncelleme": "2026-11-24T17:16:24+00:00",
+  "son_tarih": "2026-11-24",
+  "son_ham_sha12": "6de8af764198",
   "not": "Doğrulama: katalog kaydı evds_seriler.json'da; aylık çapa kontrolü planda (veri planı §6)"
  },
  "veri/resmi/evds/usd_try_satis.csv": {
@@ -22,9 +22,9 @@
   "kosul": "TCMB EVDS kullanım koşulları (evds3 docId=18, 09.11.2026 okundu): kaynak gösterilerek kullanım serbest; aşırı/kötüye kullanım niteliğinde sorgu yasak",
   "erisim": "API anahtarı (Cihan adına), günde 1 demet; ham yanıt veri/resmi/evds/ham/",
   "ilk_kayit": "2026-11-09T18:43:40+00:00",
-  "son_guncelleme": "2026-11-23T17:17:33+00:00",
-  "son_tarih": "2026-11-23",
-  "son_ham_sha12": "82a58c10bf10",
+  "son_guncelleme": "2026-11-24T17:16:25+00:00",
+  "son_tarih": "2026-11-24",
+  "son_ham_sha12": "255d889cf116",
   "not": "Doğrulama: katalog kaydı evds_seriler.json'da; aylık çapa kontrolü planda (veri planı §6)"
  },
  "veri/resmi/evds/altin_gram_tl.csv": {
@@ -36,9 +36,9 @@
   "kosul": "TCMB EVDS kullanım koşulları (evds3 docId=18, 09.11.2026 okundu): kaynak gösterilerek kullanım serbest; aşırı/kötüye kullanım niteliğinde sorgu yasak",
   "erisim": "API anahtarı (Cihan adına), günde 1 demet; ham yanıt veri/resmi/evds/ham/",
   "ilk_kayit": "2026-11-09T18:43:41+00:00",
-  "son_guncelleme": "2026-11-23T17:17:34+00:00",
+  "son_guncelleme": "2026-11-24T17:16:26+00:00",
   "son_tarih": "2026-10-23",
-  "son_ham_sha12": "20f1cb4136ea",
+  "son_ham_sha12": "dd07e99abc64",
   "not": "Doğrulama: katalog kaydı evds_seriler.json'da; aylık çapa kontrolü planda (veri planı §6)"
  },
  "veri/resmi/evds/altin_ons_usd.csv": {
@@ -50,9 +50,9 @@
   "kosul": "TCMB EVDS kullanım koşulları (evds3 docId=18, 09.11.2026 okundu): kaynak gösterilerek kullanım serbest; aşırı/kötüye kullanım niteliğinde sorgu yasak",
   "erisim": "API anahtarı (Cihan adına), günde 1 demet; ham yanıt veri/resmi/evds/ham/",
   "ilk_kayit": "2026-11-09T18:43:43+00:00",
-  "son_guncelleme": "2026-11-23T17:17:36+00:00",
-  "son_tarih": "2026-11-23",
-  "son_ham_sha12": "1fe9d9093cd6",
+  "son_guncelleme": "2026-11-24T17:16:27+00:00",
+  "son_tarih": "2026-11-24",
+  "son_ham_sha12": "eb081e12a701",
   "not": "Doğrulama: katalog kaydı evds_seriler.json'da; aylık çapa kontrolü planda (veri planı §6)"
  },
  "veri/resmi/evds/tcmb_fonlama_maliyeti.csv": {
@@ -64,9 +64,9 @@
   "kosul": "TCMB EVDS kullanım koşulları (evds3 docId=18, 09.11.2026 okundu): kaynak gösterilerek kullanım serbest; aşırı/kötüye kullanım niteliğinde sorgu yasak",
   "erisim": "API anahtarı (Cihan adına), günde 1 demet; ham yanıt veri/resmi/evds/ham/",
   "ilk_kayit": "2026-11-09T18:43:43+00:00",
-  "son_guncelleme": "2026-11-23T17:17:37+00:00",
-  "son_tarih": "2026-11-23",
-  "son_ham_sha12": "0459e809e260",
+  "son_guncelleme": "2026-11-24T17:16:28+00:00",
+  "son_tarih": "2026-11-24",
+  "son_ham_sha12": "7649fe782e89",
   "not": "Doğrulama: katalog kaydı evds_seriler.json'da; aylık çapa kontrolü planda (veri planı §6)"
  },
  "veri/resmi/evds/tlref.csv": {
@@ -78,9 +78,9 @@
   "kosul": "TCMB EVDS kullanım koşulları (evds3 docId=18, 09.11.2026 okundu): kaynak gösterilerek kullanım serbest; aşırı/kötüye kullanım niteliğinde sorgu yasak",
   "erisim": "API anahtarı (Cihan adına), günde 1 demet; ham yanıt veri/resmi/evds/ham/",
   "ilk_kayit": "2026-11-09T18:43:44+00:00",
-  "son_guncelleme": "2026-11-23T17:17:38+00:00",
-  "son_tarih": "2026-11-20",
-  "son_ham_sha12": "6255d3b0a656",
+  "son_guncelleme": "2026-11-24T17:16:29+00:00",
+  "son_tarih": "2026-11-23",
+  "son_ham_sha12": "95c4b5408bbd",
   "not": "Doğrulama: katalog kaydı evds_seriler.json'da; aylık çapa kontrolü planda (veri planı §6)"
  },
  "veri/resmi/evds/tufe_endeks_2025.csv": {
@@ -92,7 +92,7 @@
   "kosul": "TCMB EVDS kullanım koşulları (evds3 docId=18, 09.11.2026 okundu): kaynak gösterilerek kullanım serbest; aşırı/kötüye kullanım niteliğinde sorgu yasak",
   "erisim": "API anahtarı (Cihan adına), günde 1 demet; ham yanıt veri/resmi/evds/ham/",
   "ilk_kayit": "2026-11-09T18:43:45+00:00",
-  "son_guncelleme": "2026-11-23T17:17:39+00:00",
+  "son_guncelleme": "2026-11-24T17:16:30+00:00",
   "son_tarih": "2026-10-01",
   "son_ham_sha12": "f274b0cd3ab0",
   "not": "Doğrulama: katalog kaydı evds_seriler.json'da; aylık çapa kontrolü planda (veri planı §6)"
@@ -106,9 +106,9 @@
   "kosul": "TCMB EVDS kullanım koşulları (evds3 docId=18, 09.11.2026 okundu): kaynak gösterilerek kullanım serbest; aşırı/kötüye kullanım niteliğinde sorgu yasak",
   "erisim": "API anahtarı (Cihan adına), günde 1 demet; ham yanıt veri/resmi/evds/ham/",
   "ilk_kayit": "2026-11-09T18:43:46+00:00",
-  "son_guncelleme": "2026-11-23T17:17:40+00:00",
-  "son_tarih": "2026-11-20",
-  "son_ham_sha12": "16e53b206f0c",
+  "son_guncelleme": "2026-11-24T17:16:30+00:00",
+  "son_tarih": "2026-11-23",
+  "son_ham_sha12": "fc852630f10b",
   "not": "Doğrulama: katalog kaydı evds_seriler.json'da; aylık çapa kontrolü planda (veri planı §6)"
  }
 }
